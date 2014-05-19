@@ -32,7 +32,7 @@ Just ignore this section:
 
 And don't forget to add the module to your application
 
-		angular.module("myApp", ["ngtouch", "superswipe"])
+		angular.module("myApp", ["ngTouch", "superswipe"])
 
 Demo
 ----
