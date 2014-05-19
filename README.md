@@ -12,7 +12,7 @@ Copy the superswipe.js file into your project and add the following line with th
 
 Alternatively, if you're using bower, you can add this to your component.json (or bower.json):
 
-		"angular-superswipe": git://github.com/standup75/superswipe.git",
+		"angular-superswipe": "git://github.com/standup75/superswipe.git"
 
 Or simply run
 
@@ -32,7 +32,7 @@ Just ignore this section:
 
 And don't forget to add the module to your application
 
-		angular.module("myApp", ["superswipe"])
+		angular.module("myApp", ["ngtouch", "superswipe"])
 
 Demo
 ----
