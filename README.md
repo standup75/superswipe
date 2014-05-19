@@ -12,7 +12,7 @@ Copy the superswipe.js file into your project and add the following line with th
 
 Alternatively, if you're using bower, you can add this to your component.json (or bower.json):
 
-		"angular-superswipe": "~0.1.0"
+		"angular-superswipe": git://github.com/standup75/superswipe.git",
 
 Or simply run
 
