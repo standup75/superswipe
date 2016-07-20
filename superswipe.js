@@ -21,7 +21,7 @@
      * documentation for `bind` below.
      */
 
-angular.module('superswipe', []).factory('$swipe', [function() {
+angular.module('superswipe', []).factory('superswipe', [function() {
   // The total distance in any direction before we make the call on swipe vs. scroll.
   var MOVE_BUFFER_RADIUS = 10;
 

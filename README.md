@@ -34,6 +34,8 @@ And don't forget to add the module to your application
 
 		angular.module("myApp", ["ngTouch", "superswipe"])
 
+Now inject "superswipe" instead of $swipe in your app
+
 Demo
 ----
 
